@@ -1,0 +1,4 @@
+8 Este lo subo completo a GitHub desde comando
+        1)git add .
+        2)git commit -am "este es el mensaje"
+        3)git push
